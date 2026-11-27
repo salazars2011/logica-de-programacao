@@ -1,6 +1,6 @@
 
 # AV1 - Projeto Final: Sistema de Cadastro e Busca em Python
-# Aluno: Paulo César
+# Alunos: Paulo César e Murilo Henrique
 # Tema: Sistema de Biblioteca
 
 livros = [
